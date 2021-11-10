@@ -1,5 +1,11 @@
 # @finos/legend-graph
 
+## 0.2.2
+
+### Patch Changes
+
+- [#641](https://github.com/finos/legend-studio/pull/641) [`dd778d23`](https://github.com/finos/legend-studio/commit/dd778d23efa056e5034bdb80f89bcd9cb370b3e7) ([@MauricioUyaguari](https://github.com/MauricioUyaguari)) - Fix the building of `PropertyReference` in `XStorePropertyMapping` by defining its owner reference to be the association in the `XStore` mapping and the input to be the defined user input ([#524](https://github.com/finos/legend-studio/issues/524)).
+
 ## 0.2.1
 
 ## 0.2.0
